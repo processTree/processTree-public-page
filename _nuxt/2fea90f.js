@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{136:function(o,n,e){"use strict";n.a=function(o){var n=o.app;o.store;n.router.onReady((function(){return console.log(n.router.currentRoute.query)}))}},191:function(o,n,e){e(192),o.exports=e(193)}},[[191,13,1,14]]]);
